@@ -1,0 +1,52 @@
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe.config
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.pdb
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csprojResolveAssemblyReference.cache
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Form1.resources
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Properties.Resources.resources
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csproj.GenerateResource.Cache
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.exe
+c:\users\dolg_hk76\documents\visual studio 2013\Projects\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.pdb
+G:\WinForms\home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe.config
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.exe
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.pdb
+G:\WinForms\home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe
+G:\WinForms\home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.pdb
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csprojResolveAssemblyReference.cache
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Notepad.resources
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Properties.Resources.resources
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csproj.GenerateResource.Cache
+G:\WinForms\home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Справка.resources
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe.config
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.exe
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.pdb
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.pdb
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csprojResolveAssemblyReference.cache
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Notepad.resources
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Properties.Resources.resources
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Справка.resources
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csproj.GenerateResource.Cache
+C:\Users\МАКС\Desktop\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.About.resources
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe.config
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.exe
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.pdb
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.pdb
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csprojResolveAssemblyReference.cache
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.About.resources
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Notepad.resources
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Properties.Resources.resources
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Справка.resources
+E:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csproj.GenerateResource.Cache
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe.config
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.exe
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.pdb
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.exe
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\bin\Debug\Notepad_exam.pdb
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csprojResolveAssemblyReference.cache
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.About.resources
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Notepad.resources
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Properties.Resources.resources
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.Справка.resources
+G:\WinForms\0_home\Notepad_exam\Notepad_exam\obj\Debug\Notepad_exam.csproj.GenerateResource.Cache
